@@ -8,4 +8,4 @@ Este é um pequeno projeto utilizando a ferramenta Flask para, através dela, cr
  - Registra perfil com Nome, email e senha.
  - Salva em um lightDB os dados do usuário
  - Ao realizar o login, o usuário é apresentado com um campo de telefone para receber "ofertas" da loja.
-- As "ofertas" são mandadas diretamente para o WhatsApp do usuário no número fornecido, caso ele exista.
+ - As "ofertas" são mandadas diretamente para o WhatsApp do usuário no número fornecido, caso ele exista.
